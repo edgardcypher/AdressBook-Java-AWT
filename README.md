@@ -1,12 +1,10 @@
 # AdressBook-Java-AWT
 
-Showcase your GitHub (repo's) success with these static buttons featuring links to your GitHub repo or profile page and up-to-date watch, fork, and follower counts.
-
-To get started, checkout https://ghbtns.com!
+manage your adresses with this application written in java by using awt trchnology
 
 Bug tracker
 
-Have a bug? Please create an issue here on GitHub at https://github.com/mdo/github-buttons/issues.
+Have a bug? Please create an issue here on GitHub at https://github.com/edgardcypher/AdressBook-Java-AWT/issues.
 
 Development
 
